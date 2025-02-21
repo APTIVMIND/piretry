@@ -6,7 +6,7 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="piretry",  # Use a clean, simple name for PyPI
-    version="0.1.1",
+    version="0.1.2",
     author="APTIVMIND",
     author_email="aptivmind@gmail.com",  # Replace with a valid email
     description="A retry decorator for Python functions supporting both sync and async.",
