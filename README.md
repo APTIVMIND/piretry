@@ -1,4 +1,4 @@
-# piretry
+# PIRETRY
 
 A Python package that provides a simple and flexible retry decorator for both synchronous and asynchronous functions. The decorator allows you to automatically retry function calls when specific exceptions occur.
 
